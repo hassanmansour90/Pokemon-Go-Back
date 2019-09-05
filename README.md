@@ -95,26 +95,6 @@ $MySQL_P: MySQL password
 ### Deploy PokemonGoBack
 * unzip source code to ```$Web_Root```
 
-## Git workflow
-
-create a new branch [branch_name] on https://github.com/panda2ici/PokemonGoBack
-
-    git clone https://github.com/panda2ici/PokemonGoback.git
-    git checkout master
-
-    git pull
-
-    git checkout -b 'branch_name'
-
-    git status
-
-    git add .
-
-    git commit -m ''
-
-    git push
-    
-
 ## References:
 
 1. https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
